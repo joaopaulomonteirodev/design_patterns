@@ -5,7 +5,7 @@ My studies are based mainly on "Head First Design Patterns"
 
 Patterns Until Now:
 
-##Strategy (SimUDuck)
+## Strategy (SimUDuck)
 
 • The strategy pattern consists in encapsulate in classes algorithms that can vary taking the advantage of inheritance reducing the coupling. This way we can until change the behavior of the object in runtime. Powerful!
 
