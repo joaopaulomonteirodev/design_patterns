@@ -1,26 +1,26 @@
-class Duck{
-    construct(){
+class Duck {
+    construct() {
         this._flyBehavior = null;
         this._quackBehavior = null;
     }
 
-    set flyBehavior(wayToFly){
+    set flyBehavior(wayToFly) {
         this._flyBehavior = wayToFly;
     }
 
-    set quackBehavior(wayToQuack){
+    set quackBehavior(wayToQuack) {
         this._quackBehavior = wayToQuack;
     }
 
-    swim(){
-        console.log('Swiming like a Duck!');
+    swim() {
+        console.log('Swiming like a Boss!');
     }
 
-    performQuack(){
+    performQuack() {
         this._quackBehavior.quack();
     }
 
-    performFly(){
+    performFly() {
         this._flyBehavior.fly();
     }
 }
