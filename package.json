@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "nodemon": "^2.0.2",
+    "sucrase": "^3.10.1"
+  },
+  "scripts": {
+    "strategy": "nodemon strategy/main.js"
+  },
+  "name": "design_patterns",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jotaplaysson/design_patterns.git",
+  "author": "Joao Paulo Monteiro <jpmonteiro64@gmail.com>",
+  "license": "MIT"
+}

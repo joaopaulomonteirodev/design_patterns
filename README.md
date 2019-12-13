@@ -1,2 +1,8 @@
 # design_patterns
-Studies based on Heading First Design Patterns 
+
+Develop design patterns in Javascript
+Studies based mainly on "Heading First Design Patterns"
+
+Patterns Until Now:
+
+*Strategy (SimUDuck)
