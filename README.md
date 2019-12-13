@@ -9,4 +9,10 @@ Patterns Until Now:
 
 • The strategy pattern consists in encapsulate in classes algorithms that can vary taking the advantage of inheritance reducing the coupling. This way we can until change the behavior of the object in runtime. Powerful!
 
-To see the Strategy pattern in action see the strategy/main.js and enjoy!
+To see the Strategy pattern in action run the script bellow:
+'node ./strategy/main.js'
+**OR**
+'npm run strategy'
+**OR**
+'yarn strategy'
+
