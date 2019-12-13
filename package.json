@@ -4,7 +4,8 @@
     "sucrase": "^3.10.1"
   },
   "scripts": {
-    "strategy": "nodemon strategy/main.js"
+    "strategy": "nodemon strategy/main.js",
+    "observer": "nodemon observer/main.js"
   },
   "name": "design_patterns",
   "version": "1.0.0",
