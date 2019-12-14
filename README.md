@@ -16,3 +16,14 @@ To see the Strategy pattern in action run the script bellow:
 **OR**
 ```yarn strategy```
 
+
+## Observer (Followers)
+
+* The observer pattern consists in create a relationship of one to many with light coupling. The Observable object keep the Observers updated about his state registering and notifying them. Besides, is possible unregister a Observer e don’t update it anymore.
+
+To see the Strategy pattern in action run the script bellow:
+```node ./observer/main.js```
+**OR**
+```npm run observer```
+**OR**
+```yarn observer```
