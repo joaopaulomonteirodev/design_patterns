@@ -5,7 +5,8 @@
   },
   "scripts": {
     "strategy": "nodemon strategy/main.js",
-    "observer": "nodemon observer/main.js"
+    "observer": "nodemon observer/main.js",
+    "decorator": "nodemon decorator/main.js"
   },
   "name": "design_patterns",
   "version": "1.0.0",
