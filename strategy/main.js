@@ -38,7 +38,7 @@ console.log('Now Mallard can fly again.');
 mallard.performFly();
 console.log('Be careful, Mallard');
 
-console.log('Withou its rocket, Mecha can\'t fly.')
+console.log('Without its rocket, Mecha can\'t fly.')
 mecha.performFly();
 console.log('But it still can swim and is happy with this.');
 mecha.swim();
